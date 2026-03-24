@@ -13,7 +13,7 @@ def whatsapp():
     msg = resp.message()
     print(msg)
     open_ai_response = get_answer_from_ai(incoming_msg)
-    msg.body(f"Hi there! I'm your WhatsApp botM made by Amit 🤖 below are my answers: \n {open_ai_response}")
+    msg.body(f": \n {open_ai_response}")
     print(resp)
     return str(resp)
 
