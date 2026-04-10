@@ -1,0 +1,13 @@
+{
+  "invoice_number": "66314",
+  "year": 2026,
+  "month": 1,
+  "day": 19,
+  "sum_maam": 21,
+  "sum_before_maam": 119,
+  "supplier_customer_id": "512956376",
+  "haktzaa_num": null,
+  "is_fixed_assets": false,
+  "data_base_raw_type": "expense",
+  "is_self_invoice": false
+}
