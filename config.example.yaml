@@ -1,0 +1,15 @@
+database:
+  server: YOUR_SERVER.database.windows.net
+  port: 1433
+  database: YOUR_DATABASE
+  driver: "ODBC Driver 17 for SQL Server"   # adjust to your installed ODBC driver
+  # credentials go in .env (never committed):
+  #   DB_USERNAME=your_username
+  #   DB_PASSWORD=your_password
+
+blob_storage:
+  base_url: "https://YOUR_ACCOUNT.blob.core.windows.net/YOUR_CONTAINER"
+
+invoice_fetching:
+  download_folder: "invoice_feteching/downloaded_files"
+  top_n: 100

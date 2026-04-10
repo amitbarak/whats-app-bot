@@ -159,3 +159,6 @@ yarn-error.log*
 #costum
 #-------------
 secret_bash.bat
+.env
+config.yaml
+invoice_feteching/downloaded_files/
