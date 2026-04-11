@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pytest invoice_feteching/tests/ -v)",
+      "Bash(PYTHON=\"/c/Users/amitb/AppData/Local/Programs/Python/Python311/python.exe\")",
+      "Bash(PROJ=\"D:/programming/jetbrains/PyCharm Community Edition 2024.2.4/projects 2025/whatsapp bot\")",
+      "Bash(VENV=\"$PROJ/.venv\")",
+      "Read(//d/programming/jetbrains/PyCharm Community Edition 2024.2.4/projects 2025/whatsapp bot/**)",
+      "Bash(VENV_PY=\"D:/programming/jetbrains/PyCharm Community Edition 2024.2.4/projects 2025/whatsapp bot/.venv/Scripts/python.exe\" \"$VENV_PY\" -m pip install pytest sqlalchemy pyodbc PyYAML)",
+      "Bash(VENV_PY=\"D:/programming/jetbrains/PyCharm Community Edition 2024.2.4/projects 2025/whatsapp bot/.venv/Scripts/python.exe\")",
+      "Bash(\"$VENV_PY\" -m pytest invoice_feteching/tests/ -v)",
+      "Bash(\"$VENV_PY\" -m pytest invoices_generic_ai_parser/tests/ -v -m \"not integration\")"
+    ]
+  }
+}

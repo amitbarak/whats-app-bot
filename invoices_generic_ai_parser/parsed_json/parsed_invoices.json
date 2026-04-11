@@ -1,0 +1,135 @@
+{
+  "total_parsed": 13,
+  "total_errors": 2,
+  "invoices": [
+    {
+      "Asm": "SI266000015",
+      "sum": 141.6,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-03-31",
+      "HaktzaaNum": null,
+      "supplierCostumerID": "516475373",
+      "sum_before_maam": 116.11
+    },
+    {
+      "Asm": "33010004",
+      "sum": 53.7,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-04-10",
+      "HaktzaaNum": null,
+      "supplierCostumerID": "570000588",
+      "sum_before_maam": 44.03
+    },
+    {
+      "Asm": "26041000361",
+      "sum": 11673.38,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-04-10",
+      "HaktzaaNum": null,
+      "supplierCostumerID": "516028529",
+      "sum_before_maam": 9572.17
+    },
+    {
+      "Asm": "3633",
+      "sum": 120.0,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-03-20",
+      "HaktzaaNum": null,
+      "supplierCostumerID": null,
+      "sum_before_maam": 98.4
+    },
+    {
+      "Asm": "258640229",
+      "sum": 29.0,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-05-11",
+      "HaktzaaNum": null,
+      "supplierCostumerID": "515887156",
+      "sum_before_maam": 23.78
+    },
+    {
+      "Asm": "65FE4E5B0019",
+      "sum": 165.0,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-04-09",
+      "HaktzaaNum": null,
+      "supplierCostumerID": null,
+      "sum_before_maam": 135.3
+    },
+    {
+      "Asm": "65FE4E5B0019",
+      "sum": 45.0,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-04-09",
+      "HaktzaaNum": null,
+      "supplierCostumerID": null,
+      "sum_before_maam": 36.9
+    },
+    {
+      "Asm": "7DAE7BD60005",
+      "sum": 80.0,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-04-07",
+      "HaktzaaNum": null,
+      "supplierCostumerID": "024543621",
+      "sum_before_maam": 65.6
+    },
+    {
+      "Asm": "7DAE7BD60005",
+      "sum": 73.0,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-04-07",
+      "HaktzaaNum": null,
+      "supplierCostumerID": "024543621",
+      "sum_before_maam": 59.86
+    },
+    {
+      "Asm": "S503729141",
+      "sum": 69.47,
+      "nicuyPresent": 0.0,
+      "dateAsm": "2026-04-11",
+      "HaktzaaNum": null,
+      "supplierCostumerID": "516271806",
+      "sum_before_maam": 69.47
+    },
+    {
+      "Asm": "12-10359-0-2013",
+      "sum": 86.12,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-03-31",
+      "HaktzaaNum": null,
+      "supplierCostumerID": "557339231",
+      "sum_before_maam": 70.62
+    },
+    {
+      "Asm": "580176832",
+      "sum": 50.0,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-04-10",
+      "HaktzaaNum": null,
+      "supplierCostumerID": "036241776",
+      "sum_before_maam": 41.0
+    },
+    {
+      "Asm": "1211",
+      "sum": 179.98,
+      "nicuyPresent": 1.0,
+      "dateAsm": "2026-04-11",
+      "HaktzaaNum": null,
+      "supplierCostumerID": null,
+      "sum_before_maam": 147.58
+    }
+  ],
+  "errors": [
+    {
+      "file": "קובץ מצורף  1.pdf",
+      "error": "ValueError",
+      "detail": "No extractable text found in PDF: קובץ מצורף  1.pdf"
+    },
+    {
+      "file": "CamScanner 11.04.2026 12.27.pdf",
+      "error": "ValueError",
+      "detail": "No extractable text found in PDF: CamScanner 11.04.2026 12.27.pdf"
+    }
+  ]
+}
